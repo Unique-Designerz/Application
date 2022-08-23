@@ -25,6 +25,7 @@ class LoginPage extends StatelessWidget {
             right: 0,
             child: SvgPicture.asset(
               FilePath.topRightCornerBg(context),
+              height: 600.h,
             ),
           ),
           SafeArea(

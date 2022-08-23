@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
         ],
         child: MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'Flutter Demo',
+          title: 'School Application',
           // Theme config
           themeMode: ThemeMode.system,
           theme: themeDataLight,
